@@ -1,7 +1,7 @@
 //Task 2 
 
 //Importing the assets from the asset.js file
-import { assets, getAssetById } from './asset.mjs';
+import { assets, getAssetById } from './asset.js';
 
 
 //Exports a function that finds the total sum of the portfolio
