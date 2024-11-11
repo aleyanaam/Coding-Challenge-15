@@ -8,6 +8,6 @@ export const assets = [
   ];
   
   // Export function to get asset details by id
-  export function getProductById(id) {
-      return productList.find(product => product.id === id);
+  export function getAssetById(id) {
+      return assetList.find(asset => asset.id === id);
   }

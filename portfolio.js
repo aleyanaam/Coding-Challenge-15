@@ -1,7 +1,7 @@
 //Task 2 
 
-// Importing the named exports 
-import { assets, getProductById } from './assets.js';
+//Importing the assets from the asset.js file
+import { assets, getAssetById } from './assets.js';
 
 //Exports a function that finds the total sum of the portfolio
 export function calculatePortfolioValue() { 
