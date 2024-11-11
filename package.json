@@ -1,0 +1,12 @@
+{
+  "name": "financial-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "type": "module", 
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
